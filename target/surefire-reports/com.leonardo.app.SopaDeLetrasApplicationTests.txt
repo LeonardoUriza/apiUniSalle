@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.leonardo.app.SopaDeLetrasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.624 s - in com.leonardo.app.SopaDeLetrasApplicationTests

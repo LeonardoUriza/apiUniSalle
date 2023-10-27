@@ -1,0 +1,5 @@
+com\leonardo\app\controller\SopaRespuesta.class
+com\leonardo\app\controller\SopaSolicitud.class
+com\leonardo\app\service\SopaService.class
+com\leonardo\app\SopaDeLetrasApplication.class
+com\leonardo\app\controller\SopaControlador.class
